@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Filip Ćurić
-- 👀 I’m interested in .NET, Android and iOS.
+- 👀 I’m interested in web and mobile development.
 - 🌱 I’m currently learning Android and Kotlin
 - 💞️ I’m looking to collaborate on anything I can help with.
 - 📫 I'm reachable via email(filip.curic@student.ferit.hr or filip.curic6@yahoo.com).
