@@ -2,7 +2,7 @@
 
 ### Software Developer | .NET | Web & Backend | DevOps
 
-I'm a Computer Science student at FERIT Osijek with a strong interest in software development, backend systems, web applications, and infrastructure.
+I was a Computer Science student at FERIT Osijek with a strong interest in software development, backend systems, web applications, and infrastructure.
 
 I enjoy building practical software solutions from the ground up, from designing APIs and databases to deploying applications and managing the infrastructure they run on.
 
